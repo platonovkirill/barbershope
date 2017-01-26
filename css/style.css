@@ -1,0 +1,14 @@
+.promo{
+    font-size: 50px;
+    font-family: Comic Sans, sans-serif;
+    font-weight: bold;
+    color: red;
+    text-transform: uppercase;
+}
+body {
+font-size: 14px;
+line-height: 24px;
+font-family: "PT Sans Narrow", sans-serif;
+color: #fff;
+background: #111 url("../img/body-bg.jpg") no-repeat center top;
+    }
